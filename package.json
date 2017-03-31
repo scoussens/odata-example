@@ -1,0 +1,19 @@
+{
+    "name": "odata-example",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "mongodb": "^2.2.25",
+        "odata-v4-mongodb": "^0.1.10",
+        "odata-v4-server": "^0.1.33"
+    },
+    "devDependencies": {
+        "typescript": "^2.2.2"
+    }
+}
